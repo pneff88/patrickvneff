@@ -1,0 +1,8 @@
+* {
+    background-color: beige;
+}
+
+img {
+    max-width: 250px;
+    border: 3px solid black;
+}
